@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileAppsHW3</string>
+    <string name="logo">RICK AND MORTY</string>
+    <string name="character">Character</string>
+    <string name="episode">Episode</string>
+    <string name="location">Location</string>
+    <string name="characters_in_this_episode">Characters in this episode</string>
+    <string name="more_info">MORE INFORMATION</string>
+
+</resources>
